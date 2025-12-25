@@ -92,6 +92,41 @@ Adding Jane and John
 <img width="1470" height="956" alt="Screenshot 2025-12-23 at 3 49 08 PM" src="https://github.com/user-attachments/assets/b629f023-54e6-4708-b2f9-89198c3a2a4e" />
 <img width="1470" height="956" alt="Screenshot 2025-12-23 at 3 49 30 PM" src="https://github.com/user-attachments/assets/924034cc-1c76-4204-9565-83a8d03898fb" />
 
+Config Users
+Users = Organization's customers. Will add Karen and Ken as customers. 
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 6 08 20 PM" src="https://github.com/user-attachments/assets/dc212d3a-9e59-4d00-9e37-a7c7cb0f0c18" />
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 6 09 43 PM" src="https://github.com/user-attachments/assets/c3c9f007-2cd8-43f1-a108-f295e4e15b56" />
+
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 6 11 40 PM" src="https://github.com/user-attachments/assets/cff9e578-a4f6-4f52-a04f-aa87af53093e" />
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 6 12 01 PM" src="https://github.com/user-attachments/assets/cca1efc0-e242-47e2-905c-290e4be41315" />
+
+Config SLAs
+SLAs = Deadlines. Functions as a way to prioritize a ticket among other tickets. imagine senario with lots of tickets in queue (say 10), SLA's answer the question 'which ticket among all is the most important? Typically the importance of the ticket is based on business impact
+
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 9 28 11 PM" src="https://github.com/user-attachments/assets/ba0c66d3-2c38-476b-b550-b8a18f3659bf" />
+Add Sev-A 'really bad problem'
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 9 33 30 PM" src="https://github.com/user-attachments/assets/c2e312e1-6bd5-4b3e-91df-8d695c042723" />
+Add Sev-B 'less bad problem'
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 9 35 42 PM" src="https://github.com/user-attachments/assets/e4ed5406-57e1-4c54-a466-78e671320482" />
+
+Add Sev-C 'slightly less bad problem' 
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 9 37 48 PM" src="https://github.com/user-attachments/assets/bf79764f-fae5-40ba-be18-c384020345de" />
+
+added all SLAs
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 9 36 25 PM" src="https://github.com/user-attachments/assets/829f1cf4-e7d1-4f6f-83ad-d38d54da3e0b" />
+
+
+Config Help Topics
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 9 40 33 PM" src="https://github.com/user-attachments/assets/1504ff22-2792-4b70-8905-713291e8e196" />
+
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 9 42 21 PM" src="https://github.com/user-attachments/assets/009a8f1d-f5a8-491b-9bd2-48f7aad49d5d" />
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 9 42 59 PM" src="https://github.com/user-attachments/assets/0cdeae78-c85b-4b8d-a48b-28fc8aee4cec" />
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 9 43 22 PM" src="https://github.com/user-attachments/assets/1d1bec96-034c-4ccf-bbfc-b3e85ef77b46" />
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 9 43 51 PM" src="https://github.com/user-attachments/assets/4c94b409-2566-41c4-9c00-84892b1f265c" />
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 9 44 12 PM" src="https://github.com/user-attachments/assets/291a3b63-ad14-45cc-8a1b-d0ac3a43fe7a" />
+<img width="1470" height="956" alt="Screenshot 2025-12-24 at 9 44 22 PM" src="https://github.com/user-attachments/assets/6a6122f7-f5b4-4dbd-9877-0100858cde40" />
+
+
 </p>
 <br />
 
