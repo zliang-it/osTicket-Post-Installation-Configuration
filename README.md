@@ -72,6 +72,26 @@ add online banking
 confirm
 <img width="1470" height="956" alt="Screenshot 2025-12-16 at 3 51 26 PM" src="https://github.com/user-attachments/assets/f5472128-7788-4389-ae63-7212ac617068" />
 
+Allow end users to create tickets without accounts, uncheck 'Registration Requried'
+<img width="1470" height="956" alt="Screenshot 2025-12-23 at 3 34 21 PM" src="https://github.com/user-attachments/assets/2f062ceb-5ec8-48e3-b277-23eefe2714d7" />
+
+Configure Agents
+Agents are the IT staff working the tickets.
+Adding Jane and John 
+<img width="1470" height="956" alt="Screenshot 2025-12-23 at 3 39 57 PM" src="https://github.com/user-attachments/assets/2cbcdce9-b904-4822-9e78-034c1c939b79" />
+
+<img width="1470" height="956" alt="Screenshot 2025-12-23 at 3 41 44 PM" src="https://github.com/user-attachments/assets/4e4e14bf-f35b-41b8-9377-5b60fa04ca39" />
+<img width="1470" height="956" alt="Screenshot 2025-12-23 at 3 43 23 PM" src="https://github.com/user-attachments/assets/c1fd2698-4a8d-4556-b5b6-fb7e670c8819" />
+<img width="1470" height="956" alt="Screenshot 2025-12-23 at 3 43 34 PM" src="https://github.com/user-attachments/assets/02f58520-22ad-4b84-9e49-e33e1ca888c7" />
+<img width="1470" height="956" alt="Screenshot 2025-12-23 at 3 44 54 PM" src="https://github.com/user-attachments/assets/bec224de-f98e-4612-b8c6-fd971ccad6db" />
+<img width="1470" height="956" alt="Screenshot 2025-12-23 at 3 46 22 PM" src="https://github.com/user-attachments/assets/00ea561e-8c76-4796-9a48-7051a1260972" />
+
+<img width="1470" height="956" alt="Screenshot 2025-12-23 at 3 48 07 PM" src="https://github.com/user-attachments/assets/0bb6994f-f3c7-468f-a902-eaa225a040c1" />
+<img width="1470" height="956" alt="Screenshot 2025-12-23 at 3 47 51 PM" src="https://github.com/user-attachments/assets/303e722c-853a-40a6-967a-0d2ea1ef52bf" />
+<img width="1470" height="956" alt="Screenshot 2025-12-23 at 3 48 40 PM" src="https://github.com/user-attachments/assets/6e7751ae-f5dc-4e46-93ca-2b11a925c701" />
+<img width="1470" height="956" alt="Screenshot 2025-12-23 at 3 49 08 PM" src="https://github.com/user-attachments/assets/b629f023-54e6-4708-b2f9-89198c3a2a4e" />
+<img width="1470" height="956" alt="Screenshot 2025-12-23 at 3 49 30 PM" src="https://github.com/user-attachments/assets/924034cc-1c76-4204-9565-83a8d03898fb" />
+
 </p>
 <br />
 
